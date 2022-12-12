@@ -10,3 +10,4 @@ info recues
 autre ajout 
 
 demo github desktop
+demo github depuis ide vscode
