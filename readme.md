@@ -8,3 +8,5 @@ Web Developer
 * ✉️  You can contact me at [sebastien.glippa@hotmail.fr](mailto:sebastien.glippa@hotmail.fr)
 * 🧠  I'm actually learning React ⚛ & NestJS
 * 🤝  I'm open to collaborating on interesting projects
+
+<a href="https://app.daily.dev/sebzh29"><img src="https://api.daily.dev/devcards/v2/O3J8k5JeWqwR6EaofxMPi.png?type=default&r=mfq" width="356" alt="Sébastien's Dev Card"/></a>
