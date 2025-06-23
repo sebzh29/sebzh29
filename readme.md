@@ -6,7 +6,9 @@ Web Developer
 
 * 🌍  I'm based in Plomodiern
 * ✉️  You can contact me at [sebastien.glippa@hotmail.fr](mailto:sebastien.glippa@hotmail.fr)
+* 💻  https://www.shorturl.at/ro3v
 * 🧠  I'm actually learning React ⚛ & NestJS
 * 🤝  I'm open to collaborating on interesting projects
+  
 
 
